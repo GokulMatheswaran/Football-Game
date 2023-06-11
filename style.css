@@ -1,0 +1,14 @@
+#game{
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+}
+button{
+    height: 30px;
+    width: 120px;
+    background-color: blanchedalmond;
+}
+body{
+    background-color: gray;
+
+}
